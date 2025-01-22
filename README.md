@@ -1,3 +1,5 @@
+Added new line
+
 # Resolve merge conflicts
 
 _Learn why conflicts happen and how to resolve them._
